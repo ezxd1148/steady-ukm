@@ -1,0 +1,3 @@
+{
+  "extends": "@steady-ukm/config/tsconfig.base.json"
+}
